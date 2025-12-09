@@ -2,7 +2,7 @@
 /* Definição de fontes */
 @font-face{
     font-family: "Unbounded";
-    src: url(/tecboard/fonts/Unbounded-Bold.ttf);
+    src: url(/fonts/Unbounded-Bold.ttf);
     font-weight: 700;
     font-style: normal;
     font-display: swap
@@ -10,7 +10,7 @@
 
 @font-face{
     font-family: "Poppins";
-    src: url(/tecboard/fonts/Poppins-Regular.ttf);
+    src: url(/fonts/Poppins-Regular.ttf);
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -18,7 +18,7 @@
 
 @font-face {
     font-family: "Poppins";
-    src: url(/tecboard/fonts/Poppins-SemiBold.ttf);
+    src: url(/fonts/Poppins-SemiBold.ttf);
     font-weight: 600;
     font-style: normal;
     font-display: swap;
